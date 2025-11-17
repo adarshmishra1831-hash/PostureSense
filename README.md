@@ -25,13 +25,16 @@ Video → MediaPipe Pose Landmarks → Machine Learning Model → results.csv �
 
 
 🔧 How to Run the Python App
-1. Navigate to the Python Folder
+1. Navigate to the Python Folder:
+   
 cd python_app
 
-2. Install Dependencies
+2. Install Dependencies:
+   
 pip install -r requirements.txt
 
-3. Start Streamlit App
+3. Start Streamlit App:
+   
 streamlit run app.py
 
 Your browser will open automatically.
