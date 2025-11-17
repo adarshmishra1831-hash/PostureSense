@@ -9,9 +9,12 @@ It uses MediaPipe to extract body landmarks, applies a machine learning model to
 
 🚀 Project Workflow
 Video → MediaPipe Pose Landmarks → Machine Learning Model → results.csv → R Dashboard Visualization
-1.<img width="663" height="392" alt="image" src="https://github.com/user-attachments/assets/32f55704-b98f-48fb-8678-7fa4a6809ee0" />
-2.<img width="609" height="785" alt="image" src="https://github.com/user-attachments/assets/86d2a07a-cb1f-4a88-b54a-7b94d45e66b3" />
-3.<img width="1383" height="426" alt="image" src="https://github.com/user-attachments/assets/f9bbde93-62f9-4de7-b2d1-cc6ced34a986" />
+1.
+<img width="663" height="392" alt="image" src="https://github.com/user-attachments/assets/32f55704-b98f-48fb-8678-7fa4a6809ee0" />
+2.
+<img width="609" height="785" alt="image" src="https://github.com/user-attachments/assets/86d2a07a-cb1f-4a88-b54a-7b94d45e66b3" />
+3.
+<img width="1383" height="426" alt="image" src="https://github.com/user-attachments/assets/f9bbde93-62f9-4de7-b2d1-cc6ced34a986" />
 
 🧠 Key Features
 1.Upload any exercise video via Streamlit
